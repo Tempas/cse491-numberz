@@ -3,6 +3,6 @@
 
 def adder():
     n = 0
-    while 1:
-        n += 1
-        yield n
+    
+    n += 1
+    yield n

@@ -1,5 +1,7 @@
 import series
 
+a = series.adder()
+
 for i in series.adder():
     print i
 
