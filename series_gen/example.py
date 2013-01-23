@@ -5,5 +5,5 @@ a = series.adder()
 for i in series.adder():
     print i
 
-    if i > 2:
+    if i > 5:
         break
